@@ -11,6 +11,6 @@ module.exports = {
 
   migrationsTable: "pgmigrations",
   dir: "migrations",
-  direction: "up",
+  direction: "  up",
   migrationsSchema: "public",
 };
